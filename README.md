@@ -6,6 +6,16 @@ The output of the three models are shown in output folder
 
 The output using Basic Segnet is
 <p float="center">
-  <img src="../master/output/img1.png" width="500" title="Basic Segnet"/>
+  <img src="../master/output/img1.png" width="300" />
+</p>
+
+The output using combination of Segnet and U-net is
+<p float="center">
+  <img src="../master/output/out_skip_usegnet2.JPG" width="300" />
+</p>
+
+The output using Segnet with skip connection and Upsampling using convolution is
+<p float="center">
+  <img src="../master/output/out_skip_conv_2.JPG" width="300" />
 </p>
 
